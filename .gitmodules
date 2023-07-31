@@ -1,0 +1,3 @@
+[submodule "cardprint"]
+	path = cardprint
+	url = https://github.com/rash710/AdditionalTasks.git
